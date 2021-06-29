@@ -1,0 +1,26 @@
+body{
+background: pink;
+}
+img{
+  height: 200px;
+  width: 30%;
+  border: blue solid 5px;
+  margin: 10px;
+
+}
+h1{
+  text-align: center;
+  background: blue;
+  color: yellow;
+}
+td{
+  border: solid green 3px;
+  background: red;
+}
+table{
+  border: solid 5px red
+}
+th{
+  border: solid green 3px;
+  background: blue;
+}
